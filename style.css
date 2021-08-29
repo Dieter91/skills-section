@@ -9,7 +9,7 @@ body {
   flex-direction: row;
   justify-content: space-around;
   background: linear-gradient(to right, #c9d6ff, #e2e2e2);
-
+  height: 100vh;
   padding: 4rem 0 4rem 0;
 }
 
@@ -27,7 +27,6 @@ body {
   position: relative;
 }
 .skill-title {
-  margin-top: 2rem;
 }
 
 .skill-container {
