@@ -9,7 +9,8 @@ body {
   flex-direction: row;
   justify-content: space-around;
   background: linear-gradient(to right, #c9d6ff, #e2e2e2);
-  height: 100vh;
+  height: 45rem;
+
   padding: 4rem 0 4rem 0;
 }
 
@@ -106,12 +107,15 @@ body {
   .skills {
     flex-direction: column;
     padding: 2rem 4rem;
+    background-color: white;
+    height: 100vh;
   }
   .skills-left {
     width: 100%;
   }
 
   .skills-right {
+    margin-top: 30rem;
     width: 100%;
   }
 }
