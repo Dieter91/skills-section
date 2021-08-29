@@ -108,7 +108,6 @@ body {
     flex-direction: column;
     padding: 2rem 4rem;
     background-color: white;
-    height: 100vh;
   }
   .skills-left {
     width: 100%;
